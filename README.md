@@ -53,3 +53,8 @@ InventoryMS/
 
 <h3>Demo Video Link</h3>
 <p>https://drive.google.com/file/d/1R-D7PKkGGQ25oAMocTowV7WAo3tTgUfp/view?usp=sharing</p>
+
+<h3>👤 Developer</h3>
+<p>Name: Ashton Portman</p>
+<p>Email: portmanashton4@gmail.com</p>
+<p>Github: https://github.com/Ashton607</p>
