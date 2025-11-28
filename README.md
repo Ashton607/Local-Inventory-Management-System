@@ -27,3 +27,28 @@ InventoryMS/
 <p>├── README.md</p>
 <p>└── .gitignore</p>
 
+<h3>Setup Instructions</h3>
+<h3>Backend</h3>
+<h4>Activate virtual environment</h4>
+<p>venv\Scripts\activate</p>
+<h4>Navigate to backend</h4>
+<p>cd backend</p>
+<h4>Install dependencies</h4>
+<p>pip install -r requirements.txt</p>
+<h4>Apply migrations</h4>
+<p>python manage.py migrate</p>
+<h4>Start development server</h4>
+<p>python manage.py runserver</p>
+
+<h3>Frontend Setup</h3>
+<h4>Navigate to frontend folder</h4>
+<p>cd inventory-system</p>
+<h4>Install dependencies</h4>
+<p>npm install</p>
+<h4>Start development server</h4>
+<p>npm run dev</p>
+
+<p>The frontend will run at http://localhost:3000 and communicate with the backend at http://localhost:8000.</p>
+
+
+<h3>Demo Video Link</h3>
