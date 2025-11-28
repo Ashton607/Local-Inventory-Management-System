@@ -13,6 +13,7 @@
 <p>Add, edit, delete, and view products</p>
 <p>Track stock quantities and inventory changes</p>
 <p>Transaction logging (In/Out)</p>
+<p>Search bar with instant results with every input</p>
 <p>Responsive and user-friendly interface</p>
 
 <h3>Project Structure</h3>
