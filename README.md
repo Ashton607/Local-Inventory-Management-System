@@ -10,7 +10,7 @@
 
 <h3>Features</h3>
 <p>User authentication and role-based access</p>
-<p>Add, edit, delete, and view products</p>
+<p>Add, edit, delete, and view products using REST API</p>
 <p>Track stock quantities and inventory changes</p>
 <p>Transaction logging (In/Out)</p>
 <p>Search bar with instant results with every input</p>
