@@ -48,7 +48,7 @@ InventoryMS/
 <h4>Start development server</h4>
 <p>npm run dev</p>
 
-<p>The frontend will run at http://localhost:3000 and communicate with the backend at http://localhost:8000.</p>
+<p>The frontend will run at http://localhost:5173/ and communicate with the backend at http://localhost:8000.</p>
 
 
 <h3>Demo Video Link</h3>
