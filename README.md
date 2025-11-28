@@ -17,13 +17,13 @@
 
 <h3>Project Structure</h3>
 InventoryMS/
-├── backend/ # Django REST Framework backend
-│ ├── manage.py
-│ ├── myapp/
-│ └── requirements.txt
-├── frontend/ # React frontend
-│ ├── package.json
-│ └── src/
-├── README.md
-└── .gitignore
+<p>├── backend/ # Django REST Framework backend</p>
+<p>│ ├── manage.py</p>
+<p>│ ├── myapp/</p>
+<p>│ └── requirements.txt</p>
+<p>├── frontend/ # React frontend</p>
+<p>│ ├── package.json</p>
+<p>│ └── src/</p>
+<p>├── README.md</p>
+<p>└── .gitignore</p>
 
