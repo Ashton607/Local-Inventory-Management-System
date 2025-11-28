@@ -52,3 +52,4 @@ InventoryMS/
 
 
 <h3>Demo Video Link</h3>
+<p>https://drive.google.com/file/d/1R-D7PKkGGQ25oAMocTowV7WAo3tTgUfp/view?usp=sharing</p>
